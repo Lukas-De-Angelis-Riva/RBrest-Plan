@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RBrest-Plan/precache-manifest.77429a5a82385f7b65f32dd03bad194c.js"
+  "/RBrest-Plan/precache-manifest.3383a2bed1d69caf958a56ec6aaf0ba8.js"
 );
 
 self.addEventListener('message', (event) => {
